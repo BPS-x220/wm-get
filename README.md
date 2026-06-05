@@ -51,7 +51,7 @@ WinCE向け7zipとwgetceを用意する
 [WindowsMobilePowerToys.msi](https://web.archive.org/web/20260406224151/http://am.net/lib/TOOLS/Microsoft/Mobile/WindowsMobilePowerToys.msi)
   
 # cmdの導入方法
-### 1.WindowsMobilePowerToys.msiダウンロードする
+### 1.WindowsMobilePowerToys.msiをインストールする  
 [Mobile/WindowsMobilePowerToys.msi](https://web.archive.org/web/20260406224151/http://am.net/lib/TOOLS/Microsoft/Mobile/WindowsMobilePowerToys.msi)  
 インストール後に作られた`C:\Program Files\Windows Mobile Developer Power Toys\PPC_Command_Shell\arm`の中身を`Windows`ディレクトリへコピーする  
   
