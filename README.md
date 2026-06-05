@@ -1,6 +1,6 @@
 # wm-get
 WinCE/WindowsMobileで使用可能なパッケージマネージャ
-##動作確認 
+## 動作確認  
 ※Advanced/W-ZERO3[es]で動作確認済み
 # ディレクトリ構造
 ```
