@@ -70,3 +70,6 @@ C:\Program Files\Windows Mobile Developer Power Toys\PPC_Command_Shell\armの中
 [HKEY_LOCAL_MACHINE\Drivers\Console]
 "OutputTo"=dword:0
 ```
+# リポジトリの追加に関して
+現状ではhttpアクセスのみ動作確認をしている状況です
+`test-bat`内のbatファイルを使ってテストしてみることをオススメします
