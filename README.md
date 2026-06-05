@@ -58,10 +58,10 @@ WinCE向け7zipとwgetceを用意する
 C:\Program Files\Windows Mobile Developer Power Toys\PPC_Command_Shell\armの中身
 ```
 // C:\Program Files\Windows Mobile Developer Power Toys\PPC_Command_Shell\arm
-    ┃
-    ┣━cmd.exe
-    ┣━console.dll
-    ┗━shell.exe
+        ┃
+        ┣━cmd.exe
+        ┣━console.dll
+        ┗━shell.exe
 
 ```
 ### 2.レジストリを編集する
